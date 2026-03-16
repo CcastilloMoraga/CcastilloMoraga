@@ -28,7 +28,7 @@
       <br>
       <ul>
         <li>📍 <b>Base de operaciones:</b> Concepción, Chile.</li>
-        <li>💻 <b>Stack principal:</b> C#, .NET, React, SQL Server y ustedes saben.Todo lo adicional que implica.</li>
+        <li>💻 <b>Stack principal:</b> C#, .NET, React, SQL Server. Y Ustedes saben. Todo lo adicional que implica.</li>
         <li>⚙️ <b>Actualmente trabajando en:</b> Sistemas de tótems, Estacionamientos y Plataformas web (C# / React / Tailwind / .NET / SQL).</li>
         <li>🎲 <b>Cuando no estoy programando:</b> Me encuentras jugando alguna cosilla, Faneando One Piece o Viviendo la vida fuera de las Pantallas.</li>
         <br>
