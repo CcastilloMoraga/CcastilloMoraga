@@ -1,57 +1,169 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" width="1200" height="260" role="img" aria-label="Vassago" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYToxYWY5OTYyNS1kN2E5LTQ4ZDctOGMwOS0zNDQwMWNhOWNkYjUAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaGEESLRZi70SCbX8EvPFkUYAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDowYWY2YTRhOS02OTU3LTQxMzEtOWNjZS1hMDBjYjdiNGZjNWJscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNo2rY+SyROJheXxiHdaAjBqAAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggQRHG+ZFDOi+wxz7plIrra8BGJ/Yl85CeLyMw68lfabWkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaORE5BowiuK74flXaiYEnnoAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCDdItUEJNVDVP3YVHg0qh06kJZq96oGy0M/ArshYaR6aGRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBi4Zmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjFhZjk5NjI1LWQ3YTktNDhkNy04YzA5LTM0NDAxY2E5Y2RiNS9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOmM5ODc3ODdjLWFmYmQtNGI2My04YzRhLTczMGFjYTQ0YzExMHJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCBBEcb5kUM6L7DHPumUiutrwEYn9iXzkJ4vIzDryV9ptaJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggxntL7FdknZD7Gl+1mnJ5k6MhnzSjW+NBS31Zmr3CooqiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggy1B+cyFf7K6L4auoNNVfZYcPZ6uv8FFZbu6blQTUmjN0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQCSU0kENAuLtlLvxsVTS6e4xXY9wQIJV/bV2spfIG7RtiCGkUIXz1Q1HouPGHHX/Q9tA8Jzkbyy/1P7txVgG3zE=</c2pa:manifest></metadata>
-  <defs>
-    <radialGradient id="glow" cx="50%" cy="50%" r="60%">
-      <stop offset="0%" stop-color="#2d0050" stop-opacity="0.9"/>
-      <stop offset="65%" stop-color="#14002a" stop-opacity="0.45"/>
-      <stop offset="100%" stop-color="#050307" stop-opacity="0"/>
-    </radialGradient>
-    <linearGradient id="title" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#f3e9ff"/>
-      <stop offset="100%" stop-color="#b48ae0"/>
-    </linearGradient>
-    <style>
-      .net line { stroke: #2d0050; stroke-width: 1; }
-      .net circle { fill: #4a1a7a; }
-      .pkt { stroke: #9966cc; stroke-width: 2; stroke-dasharray: 6 400; animation: flow 4s linear infinite; }
-      .p2 { animation-delay: 1.3s; } .p3 { animation-delay: 2.6s; }
-      .ghost-a { animation: glitchA 0.9s steps(2) 0.2s both; }
-      .ghost-b { animation: glitchB 0.9s steps(2) 0.2s both; }
-      .main { animation: rise 0.9s cubic-bezier(.2,.8,.2,1) both; }
-      .sub { animation: fade 0.8s ease-out 0.8s both; }
-      @keyframes flow { from { stroke-dashoffset: 406; } to { stroke-dashoffset: 0; } }
-      @keyframes glitchA { 0%{transform:translate(-14px,0);opacity:.9} 60%{transform:translate(6px,0)} 100%{transform:translate(-3px,0);opacity:.55} }
-      @keyframes glitchB { 0%{transform:translate(14px,0);opacity:.9} 60%{transform:translate(-6px,0)} 100%{transform:translate(3px,0);opacity:.45} }
-      @keyframes rise { from { opacity:0; transform: translateY(10px); } to { opacity:1; transform:none; } }
-      @keyframes fade { from { opacity:0; } to { opacity:1; } }
-      @media (prefers-reduced-motion: reduce) { .pkt,.ghost-a,.ghost-b,.main,.sub { animation: none; } }
-    </style>
-  </defs>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Vassago" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTphZDA2OWQyNi04ZTc3LTQyNzEtYWIwNi02NTYyZDY1MjI0ZjgAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaPSmoTMRAqAeLz/m56fHCCoAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo2NTNjYTkyMS04NTU3LTQyODctOWRmYy05NjdmZjQ3M2ZmYzhscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNo1y2B3Ef5u/OePH3SL0EZkQAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggE0yJjU6xFMUgWqFF+zwp0pyvKkojMGO1jo7UkUuwXeqkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaECW3J/zErB3SPASTqJHAUYAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCCMymTui3y/L2DeIeWwQ7/dgs/iwGbP19+kktQa20DmoGRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBjjZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOmFkMDY5ZDI2LThlNzctNDI3MS1hYjA2LTY1NjJkNjUyMjRmOC9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOmI1Njk1NGFmLWY3N2YtNGVlNS1iNzFkLWMyZTA3NzE2ZTE4ZXJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCATTImNTrEUxSBaoUX7PCnSnK8qSiMwY7WOjtSRS7Bd6qJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFgg8HhuCqkgL3vFLDDBiRZLKKXpo2quZ7COFuQNHNsa0jCiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggKgh6QboduWEwpWeEOTH2nwZpxHMAt1kmaWeJgDY+ZEx0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQNZpTdUkNFa/Rx2pSTN54595s/QCnwKM+efqaAGWjjhGJGB1QmMsaJF6XW0/ZKdJnnNN8ZiFafdgFmWCO9hBkwA=</c2pa:manifest></metadata>
+<defs>
 
-  <rect width="1200" height="260" fill="#060408"/>
-  <rect width="1200" height="260" fill="url(#glow)"/>
+<pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+  <circle cx="1" cy="1" r="1" fill="#1a0b2e"/>
+</pattern>
+<pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+  <rect width="4" height="1" fill="#000" opacity=".16"/>
+</pattern>
 
-  <!-- red de nodos -->
-  <g class="net">
-    <line x1="60" y1="60" x2="210" y2="140"/><line x1="210" y1="140" x2="120" y2="220"/>
-    <line x1="210" y1="140" x2="265" y2="58"/><line x1="265" y1="58" x2="250" y2="205"/>
-    <line x1="1140" y1="60" x2="990" y2="130"/><line x1="990" y1="130" x2="1080" y2="215"/>
-    <line x1="990" y1="130" x2="935" y2="55"/><line x1="935" y1="55" x2="950" y2="205"/>
-    <circle cx="60" cy="60" r="3"/><circle cx="210" cy="140" r="4"/><circle cx="120" cy="220" r="3"/>
-    <circle cx="265" cy="58" r="3"/><circle cx="250" cy="205" r="3"/>
-    <circle cx="1140" cy="60" r="3"/><circle cx="990" cy="130" r="4"/><circle cx="1080" cy="215" r="3"/>
-    <circle cx="935" cy="55" r="3"/><circle cx="950" cy="205" r="3"/>
-  </g>
-  <g fill="none">
-    <path class="pkt" d="M60 60 L210 140 L265 58 L250 205"/>
-    <path class="pkt p2" d="M1140 60 L990 130 L935 55 L950 205"/>
-    <path class="pkt p3" d="M120 220 L210 140 L265 58"/>
-  </g>
+<radialGradient id="hr-rg"><stop offset="0%" stop-color="#2d0050" stop-opacity=".55"/><stop offset="100%" stop-color="#2d0050" stop-opacity="0"/></radialGradient>
+<radialGradient id="glow" cx="62%" cy="50%" r="65%">
+  <stop offset="0%" stop-color="#2d0050" stop-opacity=".75"/>
+  <stop offset="55%" stop-color="#12001f" stop-opacity=".35"/>
+  <stop offset="100%" stop-color="#07050a" stop-opacity="0"/>
+</radialGradient>
+<linearGradient id="tg" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0%" stop-color="#f6eeff"/>
+  <stop offset="100%" stop-color="#b48ae0"/>
+</linearGradient>
+<linearGradient id="fade" x1="0" x2="1">
+  <stop offset="0%" stop-color="#2d0050" stop-opacity="0"/>
+  <stop offset="15%" stop-color="#4a1a7a"/>
+  <stop offset="100%" stop-color="#2d0050" stop-opacity="0"/>
+</linearGradient>
+<path id="ring" d="M168,150 m-92,0 a92,92 0 1,1 184,0 a92,92 0 1,1 -184,0"/>
+<clipPath id="slice1"><rect x="0" y="112" width="1200" height="14"/></clipPath>
+<clipPath id="slice2"><rect x="0" y="146" width="1200" height="9"/></clipPath>
+<filter id="soft" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="6"/></filter>
+<style>
+  .ga{animation:ga 7s steps(1) 2s infinite;opacity:0}
+  .gb{animation:gb 7s steps(1) 2s infinite;opacity:0}
+  .s1{animation:s1 7s steps(1) 2s infinite;opacity:0}
+  .s2{animation:s2 7s steps(1) 2s infinite;opacity:0}
+  .title{animation:rise 1s cubic-bezier(.2,.8,.2,1) both}
+  .intro{animation:fade 1.2s ease-out .5s both}
+  .blink{animation:blink 1.1s steps(1) infinite}
+  @keyframes ga{0%,100%{opacity:0;transform:none}88%{opacity:.9;transform:translate(-7px,-1px)}90%{opacity:.9;transform:translate(5px,1px)}92%{opacity:.7;transform:translate(-3px,0)}94%{opacity:0;transform:none}}
+  @keyframes gb{0%,100%{opacity:0;transform:none}88%{opacity:.9;transform:translate(7px,1px)}90%{opacity:.9;transform:translate(-5px,-1px)}92%{opacity:.7;transform:translate(3px,0)}94%{opacity:0;transform:none}}
+  @keyframes s1{0%,100%{opacity:0;transform:none}89%{opacity:1;transform:translate(16px,0)}91%{opacity:1;transform:translate(-10px,0)}93%{opacity:0;transform:none}}
+  @keyframes s2{0%,100%{opacity:0;transform:none}90%{opacity:1;transform:translate(-14px,0)}92%{opacity:0;transform:none}}
+  @keyframes rise{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:none}}
+  @keyframes fade{from{opacity:0}to{opacity:1}}
+  @keyframes blink{50%{opacity:0}}
+  @media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+</defs>
 
-  <!-- título -->
-  <g font-family="'Arial Black','Helvetica Neue',Arial,sans-serif" font-weight="900" font-size="104" text-anchor="middle">
-    <text class="ghost-a" x="600" y="152" fill="#9966cc" textLength="560" lengthAdjust="spacingAndGlyphs">VASSAGO</text>
-    <text class="ghost-b" x="600" y="152" fill="#3d0a6e" textLength="560" lengthAdjust="spacingAndGlyphs">VASSAGO</text>
-    <text class="main" x="600" y="152" fill="url(#title)" textLength="560" lengthAdjust="spacingAndGlyphs">VASSAGO</text>
+<rect width="1200" height="300" fill="#07050a"/>
+<rect width="1200" height="300" fill="url(#dots)"/>
+<rect width="1200" height="300" fill="url(#glow)"/>
+<path d="M14,36 V14 H36 M1164,14 H1186 V36 M1186,264 V286 H1164 M36,286 H14 V264" fill="none" stroke="#4a1a7a" stroke-width="1.5"/>
+
+<!-- sello giratorio con la bio -->
+<g>
+  <circle cx="168" cy="150" r="118" fill="none" stroke="#2d0050" stroke-width="1"/>
+  <circle cx="168" cy="150" r="108" fill="none" stroke="#4a1a7a" stroke-width="1" stroke-dasharray="1 7"/>
+  <g>
+    <animateTransform attributeName="transform" type="rotate" from="0 168 150" to="360 168 150" dur="36s" repeatCount="indefinite"/>
+    <text font-family="'Fira Code','JetBrains Mono','Cascadia Code',Consolas,monospace" font-size="12.5" font-weight="600" fill="#b48ae0" letter-spacing="0">
+      <textPath xlink:href="#ring" href="#ring" textLength="576.1" lengthAdjust="spacing">DE CHILE PARA EL MUNDO ✦ CRANEANDO SOLUCIONES QUIRÚRGICAMENTE PRECISAS ✦ </textPath>
+    </text>
   </g>
-  <rect class="sub" x="540" y="182" width="120" height="2" fill="#9966cc"/>
+  <g>
+    <animateTransform attributeName="transform" type="rotate" from="360 168 150" to="0 168 150" dur="60s" repeatCount="indefinite"/>
+    <circle cx="168" cy="150" r="72" fill="none" stroke="#4a1a7a" stroke-width="6" stroke-dasharray="1.2 8.2"/>
+    <circle cx="168" cy="150" r="64" fill="none" stroke="#2d0050" stroke-width="1"/>
+  </g>
+  <polygon points="168.0,100.0 211.3,125.0 211.3,175.0 168.0,200.0 124.7,175.0 124.7,125.0" fill="#1a0b2e" stroke="#9966cc" stroke-width="1.5"/>
+  <polygon points="188.0,115.4 208.0,150.0 188.0,184.6 148.0,184.6 128.0,150.0 148.0,115.4" fill="none" stroke="#4a1a7a" stroke-width="1"/>
+  <circle cx="168" cy="150" r="30" fill="#7b2fbe" opacity=".35" filter="url(#soft)"/>
+  <path d="M151,135 L168,169 L185,135" fill="none" stroke="#e0c8ff" stroke-width="4" stroke-linejoin="miter" stroke-linecap="square"/>
+  <path d="M159,135 L168,154 L177,135" fill="none" stroke="#9966cc" stroke-width="1.5"/>
+</g>
+
+<!-- radar -->
+<g class="radar">
+<circle cx="452" cy="150" r="100.0" fill="none" stroke="#2d0050" stroke-width="1"/>
+<circle cx="452" cy="150" r="66.7" fill="none" stroke="#2d0050" stroke-width="1"/>
+<circle cx="452" cy="150" r="33.3" fill="none" stroke="#2d0050" stroke-width="1"/>
+<circle cx="452" cy="150" r="100" fill="url(#hr-rg)"/>
+<path d="M352,150 H552 M452,50 V250" stroke="#2d0050" stroke-width="1"/>
+<path d="M522.7,79.3 L381.3,220.7" stroke="#2d0050" stroke-width="1" stroke-dasharray="2 5" opacity=".7"/>
+<path d="M522.7,220.7 L381.3,79.3" stroke="#2d0050" stroke-width="1" stroke-dasharray="2 5" opacity=".7"/>
+<path d="M452.0,50.0 L452.0,43.0" stroke="#4a1a7a" stroke-width="1"/>
+<path d="M469.4,51.5 L469.9,48.6" stroke="#4a1a7a" stroke-width="1"/>
+<path d="M486.2,56.0 L487.2,53.2" stroke="#4a1a7a" stroke-width="1"/>
+<path d="M502.0,63.4 L505.5,57.3" stroke="#4a1a7a" stroke-width="1"/>
+<path d="M516.3,73.4 L518.2,71.1" stroke="#4a1a7a" stroke-width="1"/>
+<path d="M528.6,85.7 L530.9,83.8" stroke="#4a1a7a" stroke-width="1"/>
+<path d="M538.6,100.0 L544.7,96.5" stroke="#4a1a7a" stroke-width="1"/>
+<path d="M546.0,115.8 L548.8,114.8" stroke="#4a1a7a" stroke-width="1"/>
+<path d="M550.5,132.6 L553.4,132.1" stroke="#4a1a7a" stroke-width="1"/>
+<path d="M552.0,150.0 L559.0,150.0" stroke="#4a1a7a" stroke-width="1"/>
+<path d="M550.5,167.4 L553.4,167.9" stroke="#4a1a7a" stroke-width="1"/>
+<path d="M546.0,184.2 L548.8,185.2" stroke="#4a1a7a" stroke-width="1"/>
+<path d="M538.6,200.0 L544.7,203.5" stroke="#4a1a7a" stroke-width="1"/>
+<path d="M528.6,214.3 L530.9,216.2" stroke="#4a1a7a" stroke-width="1"/>
+<path d="M516.3,226.6 L518.2,228.9" stroke="#4a1a7a" stroke-width="1"/>
+<path d="M502.0,236.6 L505.5,242.7" stroke="#4a1a7a" stroke-width="1"/>
+<path d="M486.2,244.0 L487.2,246.8" stroke="#4a1a7a" stroke-width="1"/>
+<path d="M469.4,248.5 L469.9,251.4" stroke="#4a1a7a" stroke-width="1"/>
+<path d="M452.0,250.0 L452.0,257.0" stroke="#4a1a7a" stroke-width="1"/>
+<path d="M434.6,248.5 L434.1,251.4" stroke="#4a1a7a" stroke-width="1"/>
+<path d="M417.8,244.0 L416.8,246.8" stroke="#4a1a7a" stroke-width="1"/>
+<path d="M402.0,236.6 L398.5,242.7" stroke="#4a1a7a" stroke-width="1"/>
+<path d="M387.7,226.6 L385.8,228.9" stroke="#4a1a7a" stroke-width="1"/>
+<path d="M375.4,214.3 L373.1,216.2" stroke="#4a1a7a" stroke-width="1"/>
+<path d="M365.4,200.0 L359.3,203.5" stroke="#4a1a7a" stroke-width="1"/>
+<path d="M358.0,184.2 L355.2,185.2" stroke="#4a1a7a" stroke-width="1"/>
+<path d="M353.5,167.4 L350.6,167.9" stroke="#4a1a7a" stroke-width="1"/>
+<path d="M352.0,150.0 L345.0,150.0" stroke="#4a1a7a" stroke-width="1"/>
+<path d="M353.5,132.6 L350.6,132.1" stroke="#4a1a7a" stroke-width="1"/>
+<path d="M358.0,115.8 L355.2,114.8" stroke="#4a1a7a" stroke-width="1"/>
+<path d="M365.4,100.0 L359.3,96.5" stroke="#4a1a7a" stroke-width="1"/>
+<path d="M375.4,85.7 L373.1,83.8" stroke="#4a1a7a" stroke-width="1"/>
+<path d="M387.7,73.4 L385.8,71.1" stroke="#4a1a7a" stroke-width="1"/>
+<path d="M402.0,63.4 L398.5,57.3" stroke="#4a1a7a" stroke-width="1"/>
+<path d="M417.8,56.0 L416.8,53.2" stroke="#4a1a7a" stroke-width="1"/>
+<path d="M434.6,51.5 L434.1,48.6" stroke="#4a1a7a" stroke-width="1"/>
+<g><animateTransform attributeName="transform" type="rotate" from="0 452 150" to="360 452 150" dur="4s" repeatCount="indefinite"/>
+<path d="M452,150 L443.28,50.38 A100,100 0 0 1 452.00,50.00 Z" fill="#9966cc" opacity="0.420"/>
+<path d="M452,150 L434.64,51.52 A100,100 0 0 1 443.28,50.38 Z" fill="#9966cc" opacity="0.348"/>
+<path d="M452,150 L426.12,53.41 A100,100 0 0 1 434.64,51.52 Z" fill="#9966cc" opacity="0.281"/>
+<path d="M452,150 L417.80,56.03 A100,100 0 0 1 426.12,53.41 Z" fill="#9966cc" opacity="0.220"/>
+<path d="M452,150 L409.74,59.37 A100,100 0 0 1 417.80,56.03 Z" fill="#9966cc" opacity="0.164"/>
+<path d="M452,150 L402.00,63.40 A100,100 0 0 1 409.74,59.37 Z" fill="#9966cc" opacity="0.115"/>
+<path d="M452,150 L394.64,68.08 A100,100 0 0 1 402.00,63.40 Z" fill="#9966cc" opacity="0.072"/>
+<path d="M452,150 L387.72,73.40 A100,100 0 0 1 394.64,68.08 Z" fill="#9966cc" opacity="0.038"/>
+<path d="M452,150 L381.29,79.29 A100,100 0 0 1 387.72,73.40 Z" fill="#9966cc" opacity="0.012"/>
+<path d="M452,150 L452.0,50.0" stroke="#e0c8ff" stroke-width="1.6" opacity=".9"/>
+</g>
+<circle cx="496.3" cy="93.3" r="3" fill="#e0c8ff" opacity="0"><animate attributeName="opacity" values="1;.35;0;0" keyTimes="0;.35;.7;1" dur="4s" begin="0.42s" repeatCount="indefinite"/></circle>
+<circle cx="496.3" cy="93.3" r="3" fill="none" stroke="#b48ae0" stroke-width="1" opacity="0"><animate attributeName="r" values="3;13.5" keyTimes="0;1" dur="1.80s" begin="0.42s;0.42s+4s" fill="freeze" calcMode="spline" keySplines=".2 .8 .3 1"/><animate attributeName="opacity" values=".9;0" dur="1.80s" begin="0.42s;0.42s+4s" fill="freeze"/></circle>
+<circle cx="493.7" cy="166.9" r="2.5" fill="#e0c8ff" opacity="0"><animate attributeName="opacity" values="1;.35;0;0" keyTimes="0;.35;.7;1" dur="4s" begin="1.24s" repeatCount="indefinite"/></circle>
+<circle cx="493.7" cy="166.9" r="2.5" fill="none" stroke="#b48ae0" stroke-width="1" opacity="0"><animate attributeName="r" values="2.5;11.25" keyTimes="0;1" dur="1.80s" begin="1.24s;1.24s+4s" fill="freeze" calcMode="spline" keySplines=".2 .8 .3 1"/><animate attributeName="opacity" values=".9;0" dur="1.80s" begin="1.24s;1.24s+4s" fill="freeze"/></circle>
+<circle cx="417.3" cy="224.3" r="3.2" fill="#e0c8ff" opacity="0"><animate attributeName="opacity" values="1;.35;0;0" keyTimes="0;.35;.7;1" dur="4s" begin="2.28s" repeatCount="indefinite"/></circle>
+<circle cx="417.3" cy="224.3" r="3.2" fill="none" stroke="#b48ae0" stroke-width="1" opacity="0"><animate attributeName="r" values="3.2;14.4" keyTimes="0;1" dur="1.80s" begin="2.28s;2.28s+4s" fill="freeze" calcMode="spline" keySplines=".2 .8 .3 1"/><animate attributeName="opacity" values=".9;0" dur="1.80s" begin="2.28s;2.28s+4s" fill="freeze"/></circle>
+<circle cx="422.0" cy="151.0" r="2.4" fill="#e0c8ff" opacity="0"><animate attributeName="opacity" values="1;.35;0;0" keyTimes="0;.35;.7;1" dur="4s" begin="2.98s" repeatCount="indefinite"/></circle>
+<circle cx="422.0" cy="151.0" r="2.4" fill="none" stroke="#b48ae0" stroke-width="1" opacity="0"><animate attributeName="r" values="2.4;10.799999999999999" keyTimes="0;1" dur="1.80s" begin="2.98s;2.98s+4s" fill="freeze" calcMode="spline" keySplines=".2 .8 .3 1"/><animate attributeName="opacity" values=".9;0" dur="1.80s" begin="2.98s;2.98s+4s" fill="freeze"/></circle>
+<circle cx="415.1" cy="102.7" r="2.8" fill="#e0c8ff" opacity="0"><animate attributeName="opacity" values="1;.35;0;0" keyTimes="0;.35;.7;1" dur="4s" begin="3.58s" repeatCount="indefinite"/></circle>
+<circle cx="415.1" cy="102.7" r="2.8" fill="none" stroke="#b48ae0" stroke-width="1" opacity="0"><animate attributeName="r" values="2.8;12.6" keyTimes="0;1" dur="1.80s" begin="3.58s;3.58s+4s" fill="freeze" calcMode="spline" keySplines=".2 .8 .3 1"/><animate attributeName="opacity" values=".9;0" dur="1.80s" begin="3.58s;3.58s+4s" fill="freeze"/></circle>
+<circle cx="452" cy="150" r="3" fill="#e0c8ff"/>
+</g>
+
+<!-- título -->
+<g font-family="'Arial Black','Segoe UI Black','Helvetica Neue',Arial,sans-serif" font-weight="900" font-size="98">
+  <g class="title">
+    <text class="ga" x="640" y="168" fill="#ff3df0" textLength="510" lengthAdjust="spacingAndGlyphs">VASSAGO</text>
+    <text class="gb" x="640" y="168" fill="#5b6bff" textLength="510" lengthAdjust="spacingAndGlyphs">VASSAGO</text>
+    <text x="640" y="168" fill="url(#tg)" textLength="510" lengthAdjust="spacingAndGlyphs">VASSAGO</text>
+    <g clip-path="url(#slice1)"><text class="s1" x="640" y="168" fill="#e0c8ff" textLength="510" lengthAdjust="spacingAndGlyphs">VASSAGO</text></g>
+    <g clip-path="url(#slice2)"><text class="s2" x="640" y="168" fill="#b48ae0" textLength="510" lengthAdjust="spacingAndGlyphs">VASSAGO</text></g>
+  </g>
+</g>
+<rect x="640" y="86" width="44" height="3" fill="#9966cc" class="intro"/>
+<rect x="692" y="86" width="10" height="3" fill="#4a1a7a" class="intro"/>
+<rect x="1140" y="86" width="10" height="3" fill="#e0c8ff" class="blink"/>
+
+<!-- pulso -->
+<g class="intro" fill="none">
+  <path d="M640,206 H880 L892,206 L900,190 L912,224 L922,198 L930,206 H1150" stroke="url(#fade)" stroke-width="1.5"/>
+  <path d="M640,206 H880 L892,206 L900,190 L912,224 L922,198 L930,206 H1150" stroke="#e0c8ff" stroke-width="2" stroke-linecap="round" stroke-dasharray="70 900">
+    <animate attributeName="stroke-dashoffset" from="70" to="-600" dur="3.2s" repeatCount="indefinite"/>
+  </path>
+</g>
+
+<rect width="1200" height="300" fill="url(#scan)" pointer-events="none"/>
 </svg>

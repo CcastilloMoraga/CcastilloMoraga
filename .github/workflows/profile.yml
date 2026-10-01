@@ -1,0 +1,66 @@
+name: Perfil · imágenes
+
+# Genera todas las imágenes dinámicas del perfil y las publica en la rama `output`.
+# Nada depende de servidores externos: si un paso falla, se conserva la imagen anterior.
+
+on:
+  schedule:
+    - cron: "17 7 * * *" # todos los días, 04:17 en Chile
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/profile.yml"
+      - "scripts/**"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-images
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      USERNAME: ${{ github.repository_owner }}
+      # PROFILE_TOKEN es opcional (PAT classic con read:user). Sin él se usa el token del workflow.
+      GH_TOKEN: ${{ secrets.PROFILE_TOKEN || secrets.GITHUB_TOKEN }}
+    steps:
+      - uses: actions/checkout@v7
+
+      - name: Recuperar imágenes anteriores
+        run: |
+          mkdir -p dist
+          git fetch --depth 1 origin output && git --work-tree=dist checkout FETCH_HEAD -- . || true
+          git reset -q
+          ls -la dist
+
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 22
+
+      - name: Tarjetas de stats y racha
+        continue-on-error: true
+        run: node scripts/profile-cards.mjs
+        env:
+          OUT_DIR: dist
+
+      - name: Snake
+        continue-on-error: true
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake.svg?color_snake=#e0c8ff&color_dots=#1a0b2e,#3d0a6e,#6a2bb0,#9966cc,#e0c8ff
+
+      - name: Publicar en la rama output
+        uses: crazy-max/ghaction-github-pages@v5
+        with:
+          target_branch: output
+          build_dir: dist
+          commit_message: "chore: actualizar imágenes del perfil"
+          jekyll: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
