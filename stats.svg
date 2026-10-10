@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 540 210" width="540" height="210" role="img" aria-label="Estadísticas de GitHub: 105 contribuciones en el último año">
+<defs>
+<pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#1a0b2e"/></pattern>
+<linearGradient id="bd" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#7b2fbe"/><stop offset="50%" stop-color="#2d0050"/><stop offset="100%" stop-color="#7b2fbe"/></linearGradient>
+<linearGradient id="area" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#9966cc" stop-opacity=".45"/><stop offset="100%" stop-color="#9966cc" stop-opacity="0"/></linearGradient>
+<style>
+  .f{animation:in .7s ease-out both}
+  .d1{animation-delay:.1s}.d2{animation-delay:.2s}.d3{animation-delay:.3s}.d4{animation-delay:.4s}.d5{animation-delay:.5s}.d6{animation-delay:.6s}
+  .draw{stroke-dasharray:1;stroke-dashoffset:1;animation:draw 1.6s cubic-bezier(.3,.7,.2,1) .3s forwards}
+  .grow{animation:draw 1.6s cubic-bezier(.3,.7,.2,1) .3s both}
+  .live{animation:live 1.6s ease-in-out infinite}
+  @keyframes in{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+  @keyframes draw{to{stroke-dashoffset:0}}
+  @keyframes live{50%{opacity:.2}}
+  @media (prefers-reduced-motion: reduce){*{animation:none!important}.draw{stroke-dashoffset:0}}
+</style>
+</defs>
+<rect x="1" y="1" width="538" height="208" rx="14" fill="#07050a" stroke="url(#bd)" stroke-width="1.5"/>
+<rect x="1" y="1" width="538" height="208" rx="14" fill="url(#dots)"/>
+<text x="26" y="36" font-family="'Fira Code','JetBrains Mono','Cascadia Code',Consolas,monospace" font-size="12" fill="#9966cc" letter-spacing="2.5">// GITHUB STATS</text>
+<circle class="live" cx="510" cy="32" r="4" fill="#b48ae0"/>
+
+<g class="f">
+  <text x="26" y="88" font-family="'Fira Code','JetBrains Mono','Cascadia Code',Consolas,monospace" font-size="40" font-weight="700" fill="#e0c8ff">105</text>
+  <text x="26" y="110" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="12.5" fill="#a090b0">contribuciones · último año</text>
+</g>
+<path d="M26,166 H226" stroke="#2d0050" stroke-width="1"/>
+<path d="M26.0,166.0 L29.8,160.9 L33.7,166.0 L37.5,166.0 L41.4,166.0 L45.2,162.2 L49.1,163.5 L52.9,163.5 L56.8,166.0 L60.6,164.7 L64.5,163.5 L68.3,166.0 L72.2,166.0 L76.0,164.7 L79.8,166.0 L83.7,164.7 L87.5,166.0 L91.4,166.0 L95.2,166.0 L99.1,164.7 L102.9,128.0 L106.8,164.7 L110.6,166.0 L114.5,163.5 L118.3,160.9 L122.2,159.7 L126.0,162.2 L129.8,163.5 L133.7,154.6 L137.5,162.2 L141.4,158.4 L145.2,158.4 L149.1,166.0 L152.9,166.0 L156.8,166.0 L160.6,153.3 L164.5,166.0 L168.3,166.0 L172.2,166.0 L176.0,166.0 L179.8,166.0 L183.7,166.0 L187.5,166.0 L191.4,166.0 L195.2,166.0 L199.1,166.0 L202.9,166.0 L206.8,166.0 L210.6,166.0 L214.5,166.0 L218.3,166.0 L222.2,162.2 L226.0,160.9 L226,166 L26,166 Z" fill="url(#area)" class="f d3"/>
+<path d="M26.0,166.0 L29.8,160.9 L33.7,166.0 L37.5,166.0 L41.4,166.0 L45.2,162.2 L49.1,163.5 L52.9,163.5 L56.8,166.0 L60.6,164.7 L64.5,163.5 L68.3,166.0 L72.2,166.0 L76.0,164.7 L79.8,166.0 L83.7,164.7 L87.5,166.0 L91.4,166.0 L95.2,166.0 L99.1,164.7 L102.9,128.0 L106.8,164.7 L110.6,166.0 L114.5,163.5 L118.3,160.9 L122.2,159.7 L126.0,162.2 L129.8,163.5 L133.7,154.6 L137.5,162.2 L141.4,158.4 L145.2,158.4 L149.1,166.0 L152.9,166.0 L156.8,166.0 L160.6,153.3 L164.5,166.0 L168.3,166.0 L172.2,166.0 L176.0,166.0 L179.8,166.0 L183.7,166.0 L187.5,166.0 L191.4,166.0 L195.2,166.0 L199.1,166.0 L202.9,166.0 L206.8,166.0 L210.6,166.0 L214.5,166.0 L218.3,166.0 L222.2,162.2 L226.0,160.9" fill="none" stroke="#b48ae0" stroke-width="1.6" stroke-linejoin="round" pathLength="1" class="draw"/>
+<text x="26" y="183" font-family="'Fira Code','JetBrains Mono','Cascadia Code',Consolas,monospace" font-size="10" fill="#6c5a80">-52 sem</text>
+<text x="226" y="183" font-family="'Fira Code','JetBrains Mono','Cascadia Code',Consolas,monospace" font-size="10" fill="#6c5a80" text-anchor="end">hoy</text>
+<path d="M248,62 V184" stroke="#2d0050"/>
+<g class="f d1"><rect x="270" y="76" width="3" height="30" rx="1.5" fill="#4a1a7a"/>
+  <text x="282" y="88" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="11.5" fill="#a090b0">Commits</text>
+  <text x="282" y="106" font-family="'Fira Code','JetBrains Mono','Cascadia Code',Consolas,monospace" font-size="17" font-weight="700" fill="#e0c8ff">47</text></g>
+<g class="f d2"><rect x="398" y="76" width="3" height="30" rx="1.5" fill="#4a1a7a"/>
+  <text x="410" y="88" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="11.5" fill="#a090b0">Pull requests</text>
+  <text x="410" y="106" font-family="'Fira Code','JetBrains Mono','Cascadia Code',Consolas,monospace" font-size="17" font-weight="700" fill="#e0c8ff">0</text></g>
+<g class="f d3"><rect x="270" y="120" width="3" height="30" rx="1.5" fill="#4a1a7a"/>
+  <text x="282" y="132" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="11.5" fill="#a090b0">Code reviews</text>
+  <text x="282" y="150" font-family="'Fira Code','JetBrains Mono','Cascadia Code',Consolas,monospace" font-size="17" font-weight="700" fill="#e0c8ff">0</text></g>
+<g class="f d4"><rect x="398" y="120" width="3" height="30" rx="1.5" fill="#4a1a7a"/>
+  <text x="410" y="132" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="11.5" fill="#a090b0">Issues</text>
+  <text x="410" y="150" font-family="'Fira Code','JetBrains Mono','Cascadia Code',Consolas,monospace" font-size="17" font-weight="700" fill="#e0c8ff">0</text></g>
+<g class="f d5"><rect x="270" y="164" width="3" height="30" rx="1.5" fill="#e0c8ff"/>
+  <text x="282" y="176" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="11.5" fill="#a090b0">Privadas</text>
+  <text x="282" y="194" font-family="'Fira Code','JetBrains Mono','Cascadia Code',Consolas,monospace" font-size="17" font-weight="700" fill="#e0c8ff">56</text></g>
+<g class="f d6"><rect x="398" y="164" width="3" height="30" rx="1.5" fill="#4a1a7a"/>
+  <text x="410" y="176" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="11.5" fill="#a090b0">Repos</text>
+  <text x="410" y="194" font-family="'Fira Code','JetBrains Mono','Cascadia Code',Consolas,monospace" font-size="17" font-weight="700" fill="#e0c8ff">3</text></g>
+</svg>
